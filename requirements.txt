@@ -1,2 +1,5 @@
 pandas 
 numpy
+setuptools
+mysql-connector-python
+scikit-learn
