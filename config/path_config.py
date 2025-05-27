@@ -11,3 +11,5 @@ PROCESSED_DATA_PATH=os.path.join(ARTIFACTS_DIR, "processed_data","processed_trai
 
 Engineer_DIR=os.path.join(ARTIFACTS_DIR,"engineer_data")
 Engineer_data_path=os.path.join(ARTIFACTS_DIR,"engineer_data","final_df.csv")
+PARAMS_PATH=os.path.join("./config","params.json")
+MODEL_SAVE_PATH=os.path.join(ARTIFACTS_DIR,"model","trained_model.pkl")
